@@ -15,10 +15,10 @@ import (
 )
 
 //go:generate cqcfg .
-// cqp: 名称: 地震警报-Alpha
-// cqp: 版本: 0.7.1:1
+// cqp: 名称: 地震警报-Beta
+// cqp: 版本: 0.9.1:2
 // cqp: 作者: Rakuyo(imwhtl@gmail.com)
-// cqp: 简介: 自动播报地震信息。使用[/eq 2019-07-26]格式的指令查询指定日期以来最近的一次地震。
+// cqp: 简介: 自动播报(默认四川附近)地震信息。使用[/eq 2019-07-26]格式的指令查询指定日期以来最近的一次地震。
 func main() {}
 func init() {
 	//TODO json处理参考https://www.jianshu.com/p/f7f930152482

@@ -14,8 +14,8 @@ import (
 )
 
 //go:generate cqcfg .
-// cqp: 名称: 下班预热-Alpha
-// cqp: 版本: 0.7.1:1
+// cqp: 名称: 下班预热-Beta
+// cqp: 版本: 0.9.1:2
 // cqp: 作者: Rakuyo(imwhtl@gmail.com)
 // cqp: 简介: 沙雕群友定制。[/help 下班][预热]
 func main() {}

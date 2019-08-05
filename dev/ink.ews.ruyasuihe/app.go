@@ -13,8 +13,8 @@ import (
 )
 
 //go:generate cqcfg .
-// cqp: 名称: 儒雅随和-Alpha
-// cqp: 版本: 0.7.1:1
+// cqp: 名称: 儒雅随和-Beta
+// cqp: 版本: 0.9.1:2
 // cqp: 作者: Rakuyo(imwhtl@gmail.com)
 // cqp: 简介: 慎用，嘴太臭了一举报一个准，机器人被封后果自负。只对[么么哒/cnm/nmsl/申请对线]有反应。进入对线状态会追着喷，直到一方道歉结束对线。
 func main() {}

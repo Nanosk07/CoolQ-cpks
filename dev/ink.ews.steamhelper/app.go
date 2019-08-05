@@ -13,10 +13,10 @@ import (
 )
 
 //go:generate cqcfg .
-// cqp: 名称: Steam助手-Alpha
-// cqp: 版本: 0.7.1:1
+// cqp: 名称: Steam助手-Beta
+// cqp: 版本: 0.9.1:2
 // cqp: 作者: Rakuyo(imwhtl@gmail.com)
-// cqp: 简介: 提供steam相关查询以及将ASF接入酷Q
+// cqp: 简介: 提供steam相关查询(暂未实现)以及将ASF接入酷Q
 func main() {}
 func init() {
 	cqp.AppID = "ink.ews.steamhelper"

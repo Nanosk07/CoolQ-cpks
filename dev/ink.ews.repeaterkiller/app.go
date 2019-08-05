@@ -13,8 +13,8 @@ import (
 )
 
 //go:generate cqcfg .
-// cqp: 名称: 复读机杀手-Alpha
-// cqp: 版本: 0.7.1:1
+// cqp: 名称: 复读机杀手-Beta
+// cqp: 版本: 0.9.1:2
 // cqp: 作者: Rakuyo(imwhtl@gmail.com)
 // cqp: 简介: 多磨，在下，复读机杀手desu。复读机，该杀。[/help 复读机]查看帮助
 func main() {}
